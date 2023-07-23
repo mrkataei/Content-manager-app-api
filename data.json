@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Learning singleton  pattern",
+    "description": "I would like to learn singleton pattern in Js language",
+    "link": "www.google.com",
+    "image": "www.google.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "title": "Learning factory  pattern",
+    "description": "I would like to learn factory pattern in Js language",
+    "link": "www.google.com",
+    "image": "www.google.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Learning SOLID  pattern",
+    "description": "I would like to learn SOLID pattern in Js language",
+    "link": "www.google.com",
+    "image": "www.google.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  }
+]
